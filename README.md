@@ -6,6 +6,6 @@ eCommerce
 <img src="./demo.png" alt="" />
 <hr/>
 <p>
-En este proyecto trabajamos en conjunto un equipo de personas de distintos países para desarrollar un e-commerce funcional utilizando nuestra propia base de datos y productos para ser presentado como proyecto final en la academia Henry.
+In this project we worked together with a team of people from different countries to develop a functional e-commerce using our own database and products to be presented as a final project at the Henry Academy.
 </p>
-<p>E-Commerce desarrollado en React.js utilizando JavaScript, HTML5, CSS Modules Puro, Redux, Bootstrap, Express.JS, PostgreSQL, Sequelize, JWT entre otras librerías. </p>
+<p>E-Commerce developed in React.js using JavaScript, HTML5, Pure CSS Modules, Redux, Bootstrap, Express.JS, PostgreSQL, Sequelize, JWT among other libraries.</p>
